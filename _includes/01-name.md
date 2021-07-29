@@ -1,4 +1,4 @@
-<h1>Replace this with your name, and include a header.</h1>
-  <h2>Hello world</h2>
-  <h3>Added Another Header</h3>
+# Replace this with your name, and include a header
+  ## Hello world
+ ###### Added Another Header
   
